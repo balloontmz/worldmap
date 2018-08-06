@@ -525,42 +525,19 @@
     </State>
   </CountryRegion>
   <CountryRegion Name="Canada" Code="CAN">
-    <State >
-      <City Name="Abbotsford" Code="ABB"/>
-      <City Name="Barrie" Code="BAR"/>
-      <City Name="Brampton" Code="BRP"/>
-      <City Name="Calgary" Code="CAL"/>
-      <City Name="Cape Breton" Code="CBR"/>
-      <City Name="Charlottetown" Code="CHA"/>
-      <City Name="Edmonton" Code="EDM"/>
-      <City Name="Fredericton" Code="FRE"/>
-      <City Name="Guelph" Code="GLP"/>
-      <City Name="Halifax" Code="HAL"/>
-      <City Name="Hamilton" Code="HAM"/>
-      <City Name="Iqaluit" Code="IQL"/>
-      <City Name="Kelowna" Code="KWL"/>
-      <City Name="Kingston" Code="KGN"/>
-      <City Name="London" Code="LOD"/>
-      <City Name="Montreal" Code="MTR"/>
-      <City Name="Oshawa" Code="OSH"/>
-      <City Name="Ottawa" Code="OTT"/>
-      <City Name="Quebec" Code="QUE"/>
-      <City Name="Regina" Code="REG"/>
-      <City Name="Saint-John&apos;s" Code="SJB"/>
-      <City Name="Saskatoon" Code="SAK"/>
-      <City Name="Sherbrooke" Code="SBE"/>
-      <City Name="St. Catharines" Code="SCA"/>
-      <City Name="Sudbury" Code="SUD"/>
-      <City Name="Thunder Bay" Code="THU"/>
-      <City Name="Toronto" Code="TOR"/>
-      <City Name="Trois-Rivieres" Code="TRR"/>
-      <City Name="Vancouver" Code="VAN"/>
-      <City Name="Victoria" Code="VIC"/>
-      <City Name="Whitehorse" Code="YXY"/>
-      <City Name="Windsor" Code="WDR"/>
-      <City Name="Winnipeg" Code="WNP"/>
-      <City Name="Yellowknife" Code="YZF"/>
-    </State>
+    <State Name="Alberta" Code="AB" />
+    <State Name="British Columbia" Code="BC" />
+    <State Name="Manitoba" Code="MB" />
+    <State Name="New Brunswick" Code="NB" />
+    <State Name="Newfoundland and Labrador" Code="NL" />
+    <State Name="Northwest Territories" Code="NT" />
+    <State Name="Nova Scotia" Code="NS" />
+    <State Name="Nunavut" Code="NU" />
+    <State Name="Ontario" Code="ON" />
+    <State Name="Prince Edward Island" Code="PE" />
+    <State Name="Quebec" Code="QC" />
+    <State Name="Saskatchewan" Code="SK" />
+    <State Name="Yukon" Code="YT" />
   </CountryRegion>
   <CountryRegion Name="Cape Verde" Code="CPV">
     <State >

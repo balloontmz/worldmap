@@ -5065,43 +5065,20 @@
     </State>
   </CountryRegion>
   <CountryRegion Name="几内亚比绍" Code="GNB" />
-  <CountryRegion Name="加拿大" Code="CAN">
-    <State>
-      <City Name="阿伯茨福" Code="ABB" />
-      <City Name="埃德蒙顿" Code="EDM" />
-      <City Name="奥沙瓦" Code="OSH" />
-      <City Name="巴里" Code="BAR" />
-      <City Name="布列塔尼角" Code="CBR" />
-      <City Name="多伦多" Code="TOR" />
-      <City Name="弗雷德里顿" Code="FRE" />
-      <City Name="圭尔夫" Code="GLP" />
-      <City Name="哈利法克斯" Code="HAL" />
-      <City Name="哈密尔顿" Code="HAM" />
-      <City Name="怀特霍斯" Code="YXY" />
-      <City Name="基劳纳" Code="KWL" />
-      <City Name="基奇纳" Code="BRP" />
-      <City Name="金斯敦" Code="KGN" />
-      <City Name="卡里加里" Code="CAL" />
-      <City Name="魁北克" Code="QUE" />
-      <City Name="里贾纳" Code="REG" />
-      <City Name="伦敦" Code="LOD" />
-      <City Name="蒙特利尔" Code="MTR" />
-      <City Name="萨德伯里" Code="SUD" />
-      <City Name="萨斯卡通" Code="SAK" />
-      <City Name="三河城" Code="TRR" />
-      <City Name="桑德贝" Code="THU" />
-      <City Name="舍布鲁克" Code="SBE" />
-      <City Name="圣卡塔琳娜" Code="SCA" />
-      <City Name="圣约翰斯" Code="SJB" />
-      <City Name="维多利亚" Code="VIC" />
-      <City Name="温哥华" Code="VAN" />
-      <City Name="温尼伯" Code="WNP" />
-      <City Name="温莎" Code="WDR" />
-      <City Name="渥太华" Code="OTT" />
-      <City Name="夏洛特敦" Code="CHA" />
-      <City Name="耶洛奈夫" Code="YZF" />
-      <City Name="伊魁特" Code="IQL" />
-    </State>
+  <CountryRegion Name="加拿大" Code="CAN" />
+    <State Name="阿尔伯达" Code="AB" />
+    <State Name="不列颠哥伦比亚" Code="BC" />
+    <State Name="马尼托巴" Code="MB" />
+    <State Name="新布伦兹维克" Code="NB" />
+    <State Name="纽芬兰和拉布拉多" Code="NL" />
+    <State Name="西北地区" Code="NT" />
+    <State Name="新斯科舍" Code="NS" />
+    <State Name="努纳武特" Code="NU" />
+    <State Name="安大略" Code="ON" />
+    <State Name="爱德华王子岛" Code="PE" />
+    <State Name="魁北克" Code="QC" />
+    <State Name="萨斯喀彻温" Code="SK" />
+    <State Name="育空" Code="YT" />
   </CountryRegion>
   <CountryRegion Name="加纳" Code="GHA">
     <State>
