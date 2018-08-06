@@ -525,19 +525,19 @@
     </State>
   </CountryRegion>
   <CountryRegion Name="Canada" Code="CAN">
-    <State Name="Alberta" Code="AB" ><State/>
-    <State Name="British Columbia" Code="BC" ><State/>
-    <State Name="Manitoba" Code="MB" ><State/>
-    <State Name="New Brunswick" Code="NB" ><State/>
-    <State Name="Newfoundland and Labrador" Code="NL" ><State/>
-    <State Name="Northwest Territories" Code="NT" ><State/>
-    <State Name="Nova Scotia" Code="NS" ><State/>
-    <State Name="Nunavut" Code="NU" ><State/>
-    <State Name="Ontario" Code="ON" ><State/>
-    <State Name="Prince Edward Island" Code="PE" ><State/>
-    <State Name="Quebec" Code="QC" ><State/>
-    <State Name="Saskatchewan" Code="SK" ><State/>
-    <State Name="Yukon" Code="YT" ><State/>
+    <State Name="Alberta" Code="AB" ></State>
+    <State Name="British Columbia" Code="BC" ></State>
+    <State Name="Manitoba" Code="MB" ></State>
+    <State Name="New Brunswick" Code="NB" ></State>
+    <State Name="Newfoundland and Labrador" Code="NL" ></State>
+    <State Name="Northwest Territories" Code="NT" ></State>
+    <State Name="Nova Scotia" Code="NS" ></State>
+    <State Name="Nunavut" Code="NU" ></State>
+    <State Name="Ontario" Code="ON" ></State>
+    <State Name="Prince Edward Island" Code="PE" ></State>
+    <State Name="Quebec" Code="QC" ></State>
+    <State Name="Saskatchewan" Code="SK" ></State>
+    <State Name="Yukon" Code="YT" ></State>
   </CountryRegion>
   <CountryRegion Name="Cape Verde" Code="CPV">
     <State >

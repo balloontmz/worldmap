@@ -5066,19 +5066,19 @@
   </CountryRegion>
   <CountryRegion Name="几内亚比绍" Code="GNB" />
   <CountryRegion Name="加拿大" Code="CAN" />
-    <State Name="阿尔伯达" Code="AB" ><State/>
-    <State Name="不列颠哥伦比亚" Code="BC" ><State/>
-    <State Name="马尼托巴" Code="MB" ><State/>
-    <State Name="新布伦兹维克" Code="NB" ><State/>
-    <State Name="纽芬兰和拉布拉多" Code="NL" ><State/>
-    <State Name="西北地区" Code="NT" ><State/>
-    <State Name="新斯科舍" Code="NS" ><State/>
-    <State Name="努纳武特" Code="NU" ><State/>
-    <State Name="安大略" Code="ON" ><State/>
-    <State Name="爱德华王子岛" Code="PE" ><State/>
-    <State Name="魁北克" Code="QC" ><State/>
-    <State Name="萨斯喀彻温" Code="SK" ><State/>
-    <State Name="育空" Code="YT" ><State/>
+    <State Name="阿尔伯达" Code="AB" ></State>
+    <State Name="不列颠哥伦比亚" Code="BC" ></State>
+    <State Name="马尼托巴" Code="MB" ></State>
+    <State Name="新布伦兹维克" Code="NB" ></State>
+    <State Name="纽芬兰和拉布拉多" Code="NL" ></State>
+    <State Name="西北地区" Code="NT" ></State>
+    <State Name="新斯科舍" Code="NS" ></State>
+    <State Name="努纳武特" Code="NU" ></State>
+    <State Name="安大略" Code="ON" ></State>
+    <State Name="爱德华王子岛" Code="PE" ></State>
+    <State Name="魁北克" Code="QC" ></State>
+    <State Name="萨斯喀彻温" Code="SK" ></State>
+    <State Name="育空" Code="YT" ></State>
   </CountryRegion>
   <CountryRegion Name="加纳" Code="GHA">
     <State>
