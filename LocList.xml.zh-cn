@@ -5214,6 +5214,7 @@
     <State Name="釜山" Code="26" />
     <State Name="光州" Code="29" />
     <State Name="济州特别自治道" Code="41" />
+    <State Name="世宗特别自治市" Code="" />
     <State Name="江原道" Code="42">
       <City Name="春川市" Code="CHC" />
       <City Name="东海市" Code="TGH" />

@@ -2162,6 +2162,7 @@
       <City Name="Yeongwol County" Code="YWL"/>
     </State>
     <State Name="Gwangju" Code="29"/>
+    <State Name="Sejong teukbyeol jachisi" Code=""/>
     <State Name="Jeju-do" Code="41">
       <City Name="Suwon" Code="SUO"/>
     </State>    
